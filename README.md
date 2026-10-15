@@ -41,16 +41,16 @@ Use this section to describe the analyses actually completed in your notebook. D
 ## Key Findings
 Add the main findings from your own charts and calculations here. Make sure each finding is supported by the results in your notebook. Avoid adding conclusions that your analysis did not establish.
 
-1. **Finding 1:** [Write a finding from your results.]
-2. **Finding 2:** [Write a finding from your results.]
-3. **Finding 3:** [Write a finding from your results.]
+1. **Finding 1:** [A monthly revenue trend can reveal sales fuctuations.]
+2. **Finding 2:** [Monthly revenue trend reveals high performing periods, and potential seasonal patterns.]
+4. **Finding 3:** [A category may sell many units without contributing the highest revenue because selling prices differ.]
 
 ## Business Recommendations
 Include at least **three specific, actionable recommendations** based on your findings.
 
-1. **Recommendation 1:** [State what the business should do and which finding supports it.]
-2. **Recommendation 2:** [State what the business should do and which finding supports it.]
-3. **Recommendation 3:** [State what the business should do and which finding supports it.]
+1. **Recommendation 1:** [The company should compay monthly revenue.]
+2. **Recommendation 2:** [Investigate unusual declines.]
+3. **Recommendation 3:** [Plan inventory and promotional campaigns around established demand patterns.]
 
 ## How to Run the Notebook
 1. Download or clone the project folder.
