@@ -1,0 +1,10 @@
+Measure,Before cleaning,After cleaning,What changed
+Rows,10000,9977,23 rows removed because quantity could not be recovered
+Duplicate rows,0,0,No exact duplicate rows were found
+Missing/invalid Quantity,479,0,456 quantities recovered from total ÷ unit price; 23 rows removed
+Missing/invalid Price Per Unit,533,51,479 prices filled only where recognised item price was consistent
+Missing/invalid Total Spent,502,3,479 totals recalculated as quantity × unit price
+Missing/invalid Item,969,0,"Unknown/missing items labelled ""Unknown Item"""
+Missing/invalid Payment Method,3178,0,"Missing categories labelled ""Not recorded"""
+Missing/invalid Location,3961,0,"Missing categories labelled ""Not recorded"""
+Missing/invalid Transaction Date,460,460,Unrecoverable dates left blank rather than guessed
